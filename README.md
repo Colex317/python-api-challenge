@@ -40,9 +40,9 @@ To succeed on this deliverable of the assignment, complete the following steps:
 
 2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
 
-- A max temperature lower than 27 degrees but higher than 21
-- Wind speed less than 4.5 m/s
-- Zero cloudiness
+  - A max temperature lower than 27 degrees but higher than 21
+  - Wind speed less than 4.5 m/s
+  - Zero cloudiness
 
 3. Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
